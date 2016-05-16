@@ -1,0 +1,9 @@
+.DS_Store
+robots.txt
+wp-config-env.php
+wp-cli.local.yml
+/uploads
+/wp-content
+composer.lock
+node_modules/
+vendor/

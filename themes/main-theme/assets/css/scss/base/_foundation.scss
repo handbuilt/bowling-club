@@ -1,0 +1,21 @@
+// Foundation by ZURB
+// foundation.zurb.com
+// Licensed under MIT Open Source
+
+@import '../../../../../../assets/lib/foundation/scss/normalize';
+@import 'foundation-settings';
+
+// Behold, here are all the Foundation components.
+@import '../../../../../../assets/lib/foundation/scss/foundation/components/grid',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/alert-boxes',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/block-grid',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/visibility',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/type',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/forms',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/button-groups',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/buttons',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/inline-lists',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/reveal',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/tabs',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/pagination',
+		'../../../../../../assets/lib/foundation/scss/foundation/components/tables';
